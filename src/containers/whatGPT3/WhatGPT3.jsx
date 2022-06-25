@@ -9,7 +9,7 @@ const WhatModern = () => {
         <Feature />
       </div>
       <div className="gpt3__whatgpt3-heading">
-        <h1 className="gradient-text">
+        <h1 className="gradient__text">
           The possibilities are beyond your imagination.
         </h1>
         <p>Explore The Library</p>
@@ -19,7 +19,7 @@ const WhatModern = () => {
         <Feature />
         <Feature />
       </div>
-    </div>
+    </div>  
   )
 }
 
