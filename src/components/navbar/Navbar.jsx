@@ -7,11 +7,11 @@ import logo from '../../assets/logo.svg';
 
 const Menu = ()=>(
   <React.Fragment>
-  <p><a href="#home"></a> Home </p>
-  <p><a href="#wgpt3"></a> What is GPT?</p>
-  <p><a href="#possibility"></a> Open AI</p>
-  <p><a href="#features"></a> Case Studies </p>
-  <p><a href="#region blog"></a>  Library </p>
+  <p><a href="#home">Home</a></p>
+  <p><a href="#wgpt3"> What is GPT? </a></p>
+  <p><a href="#possibility"> Open AI </a></p>
+  <p><a href="#features">  Case Studies </a></p>
+  <p><a href="#region blog"> Library </a></p>
   </React.Fragment>
 )
 
